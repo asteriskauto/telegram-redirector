@@ -1,5 +1,5 @@
 # telegram_redirector
-pip install requirements.txt
+pip install -r requirements.txt
 
 1. Add Telegram API token to variable
 2. Run redirector.py without args
