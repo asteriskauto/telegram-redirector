@@ -5,7 +5,7 @@ import telebot
 import sys
 
 token = 'INSERT_YOUR_TOKEN'  # Вводим свой телеграм API токен
-group_id = -193777042  # Вводим id группы, куда надо слать сообщения (int с отрицательным значением)
+group_id = -123456789 # Вводим id группы, куда надо слать сообщения (int с отрицательным значением)
 bot = telebot.TeleBot(token, skip_pending=True)
 
 
